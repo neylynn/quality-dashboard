@@ -34,7 +34,7 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: build
-          name: build
+          path: build
       - name: Deploy to firebase hosting
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
