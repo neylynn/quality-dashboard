@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "quality-dashboard-produc-c1a2b"
-  }
+    "default": "quality-dashboard-produc-c1a2b",
+    "staging": "quality-dashboard-stagin-225b0"
+  },
+  "targets": {},
+  "etags": {}
 }
