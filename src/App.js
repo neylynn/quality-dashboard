@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 // import './App.css';
 import React from "react";
+import logo from './bp-logo.png';
 
 // function App() {
 //   return (
@@ -33,6 +34,7 @@ const App = () => {
       height: '100vh',
       fontFamily: 'roboto'
     }}>
+    <img src={logo} alt="Quality Logo"/>
     <h1 style={{
       color: '#6EC177',
       margin: 0
